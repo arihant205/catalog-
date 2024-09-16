@@ -1,4 +1,3 @@
-# catalog-
 const fs = require('fs');
 
 // Function to decode the value from a specific base to decimal
